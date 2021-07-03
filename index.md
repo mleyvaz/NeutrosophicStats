@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](http://neutrosofia.org/wp-content/uploads/2019/01/LOGO-NEUTROSOPHIC.png)
+[Link](url) and ![http://neutrosofia.org/wp-content/uploads/2019/01/LOGO-NEUTROSOPHIC.png](http://neutrosofia.org/wp-content/uploads/2019/01/LOGO-NEUTROSOPHIC.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

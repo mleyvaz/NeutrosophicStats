@@ -1,5 +1,5 @@
 ## Welcom to neutrosophy in Latam Page
-![Drag Racing](alcn.png) 
+![Drag Racing](https://github.com/mleyvaz/NeutrosophicStats/blob/main/alcn.png?raw=true) 
 
 You can use the [editor on GitHub](https://github.com/mleyvaz/NeutrosophicStats/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

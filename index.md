@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Drag Racing](http://neutrosofia.org/wp-content/uploads/2019/01/LOGO-NEUTROSOPHIC.png) 
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

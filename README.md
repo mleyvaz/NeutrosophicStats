@@ -1,4 +1,4 @@
-# Neutrosophic Stats repository companion of Latam NSS Special issue Vol 43.
+# Companion github repository  Latam NSS Special issue Vol 43.
 
 Neutrosophy has given way to its research method for a transdisciplinary study that crosses the boundaries
 between the sciences. The neutrosophic research method is a generalization of Hegel's dialectics (dynamics of
@@ -26,14 +26,14 @@ SI will be helpful for researchers working on all aspects related to neutrosophi
 sciences.
  
 Companion Repository include the following Google Colab Notebooks
-Neutrosophic Sampling
+* Neutrosophic Sampling
  https://github.com/mleyvaz/NeutrosophicStats/blob/main/Neutrosophic_Sample_Calculation.ipynb
-Neutrosophic statistical numbers
+* Neutrosophic statistical numbers
 https://github.com/mleyvaz/NeutrosophicStats/blob/main/Neutrosophic%20statistical%20numbers.ipynb
-Neutrosophic Aggregation operators.
+* Neutrosophic Aggregation operators.
 https://github.com/mleyvaz/NeutrosophicStats/blob/main/Neutrosophic_Aggregation_operators.ipynb
-Distance and similarity measures
+* Distance and similarity measures
 https://github.com/mleyvaz/NeutrosophicStats/blob/main/Distance_and_similarity_.ipynb
-Neutrosophic Images
+* Neutrosophic Images
 https://github.com/mleyvaz/NeutrosophicStats/blob/main/Neutrosophics_image.ipynb
 

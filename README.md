@@ -1,4 +1,4 @@
-# Companion github repository  Latam NSS Special issue Vol 43.
+# Companion github repository  for Latam NSS special issue Vol 44.
 
 Neutrosophy has given way to its research method for a transdisciplinary study that crosses the boundaries
 between the sciences. The neutrosophic research method is a generalization of Hegel's dialectics (dynamics of
